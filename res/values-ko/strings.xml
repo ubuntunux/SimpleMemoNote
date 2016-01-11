@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">심플메모</string>
+	<string name="subject">제목</string>
+	<string name="memo">메모</string>
+	<string name="save">저장</string>
+	<string name="delete">삭제</string>
+	<string name="ok">완료</string>
+	<string name="new_memo">새메모</string>
+	<string name="date">날짜</string>
+	<string name="saved">저장되었습니다.</string>
+	<string name="deleted">삭제되었습니다.</string>
+	<string name="want_save">저장할까요?</string>
+	<string name="want_delete">삭제할까요?</string>
+	<string name="yes">예</string>
+	<string name="no">아니요</string>
+</resources>

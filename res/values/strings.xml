@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimpleMemo</string>
+	<string name="subject">Subject</string>
+	<string name="memo">Memo</string>
+	<string name="save">Save</string>
+	<string name="delete">Delete</string>
+	<string name="ok">OK</string>
+	<string name="new_memo">New memo</string>
+	<string name="date">Date</string>
+	<string name="saved">Saved.</string>
+	<string name="deleted">Deleted.</string>
+	<string name="want_save">Do you want to save?</string>
+	<string name="want_delete">Do you want to delete?</string>
+	<string name="yes">Yes</string>
+	<string name="no">No</string>
+</resources>
